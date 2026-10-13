@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🚀 Starting X-UI on port ${PORT}"
+echo "🚀 Starting on port ${PORT}"
 
 mkdir -p /etc/x-ui
 
